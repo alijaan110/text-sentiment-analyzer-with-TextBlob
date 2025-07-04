@@ -13,7 +13,7 @@ A simple and interactive web app for real-time sentiment analysis using **TextBl
 
 ## 🚀 Live Demo
 
-Try it here (if deployed):  
+Try it:  
 🔗 [https://huggingface.co/spaces/alijaanai/mcp-sentiment](https://huggingface.co/spaces/alijaanai/mcp-sentiment)
 
 ---
@@ -32,5 +32,6 @@ Try it here (if deployed):
 
 ```bash
 git clone https://github.com/your-username/text-sentiment-analyzer.git
-cd text-sentiment-analyzer
+cd text-sentiment-analyzer-with-TextBlob
+
 
